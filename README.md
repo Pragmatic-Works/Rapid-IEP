@@ -11,8 +11,9 @@ To install:
 2. Go to Solutions
 3. Select Import and point to the zip file in the release. Do not uncompress it.
 4. A few moments later, the app will install with the tables. You can then customize the security role with the provided role in the solution.
-</h3>Video of Features and Installation</h3>
+<h3>Video of Features and Installation</h3>
 <B>Click on the below image to watch the YouTube video on the features, installation and configuration of the Power App. </B>
+<BR>
 <a href="https://www.youtube.com/embed/yoFZTfRMys8">
   <img src="https://img.youtube.com/vi/yoFZTfRMys8/maxresdefault.jpg">
   </a>
