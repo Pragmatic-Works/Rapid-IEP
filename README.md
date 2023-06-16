@@ -12,7 +12,10 @@ To install:
 3. Select Import and point to the zip file in the release. Do not uncompress it.
 4. A few moments later, the app will install with the tables. You can then customize the security role with the provided role in the solution.
 </h3>Video of Features and Installation</h3>
-Coming soon
+<B>Click on the below image to watch the YouTube video on the features, installation and configuration of the Power App. </B>
+<a href="https://www.youtube.com/embed/yoFZTfRMys8">
+  <img src="https://img.youtube.com/vi/yoFZTfRMys8/maxresdefault.jpg">
+  </a>
 <h2>Features and Screens</h2>
 <B>The core application to help manage the process of the IEP.</B>
 <img src="https://github.com/Pragmatic-Works/Rapid-IEP/blob/main/Screenshots/mda.png"/>
