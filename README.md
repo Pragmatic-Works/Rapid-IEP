@@ -6,7 +6,6 @@ This application will help you manage an Individualized Education Program (IEP).
 
 <h2>Installation</h2>
 To install:
-
 1. Open your Power Apps Environment where you wish to install the application and tables
 2. Go to Solutions
 3. Select Import and point to the zip file in the release. Do not uncompress it.
